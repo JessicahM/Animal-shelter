@@ -1,0 +1,13 @@
+body {
+  background-image: url();
+}
+
+.sidebar {
+  width: 50%;
+  float: right;
+}
+
+.list {
+  width: 300px;
+  float: left;
+}
