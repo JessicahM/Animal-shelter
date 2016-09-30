@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Animal shelter</title>
+</head>
+<body style="background-image: url(http://www.publicdomainpictures.net/pictures/40000/velka/paw-prints-background.jpg)">
+<div class="container" style="width: 80%;
+  background-color: pink;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+  border-style: dashed;
+  float: left; text-transform:uppercase; text-indent:5px; img align:middle;">
+    <img src="https://www.hirerush.com/blog/wp-content/uploads/2016/02/myths-about-rescue-dogs.jpg">
+    <img src="http://media1.s-nbcnews.com/j/newscms/2015_19/522571/birdie-adopted-dog-today-150503-02_2d250975b00fb64a013e37c74e09b583.today-inline-large.jpg">
+    <img src="http://imgtrend.mynet.com/2014/11/21/095005662/pissed-off-dog1-728x728.jpg">
+</div>
+<h1 style="text-align: center;
+  padding: 10px 20px;">Adopt a dog today, make a difference</h1>
+</body>

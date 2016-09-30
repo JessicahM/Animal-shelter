@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Animal shelter</title>
+</head>
+<body style="background-image: url(https://s-media-cache-ak0.pinimg.com/236x/46/f9/66/46f96691dd5e272444b3611033d7da5c.jpg)">
+<div class="container" style="width: 80%;
+  background-color: green;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+  border-style: dashed;
+  float: left; text-transform:uppercase; text-indent:5px; img align:middle;">
+    <img src="https://www.petfinder.com/wp-content/uploads/2013/07/Maxie-Guinea-Pig-e1372798623864.jpg">
+    <img src="http://4.bp.blogspot.com/-WierDLTvzVA/VQo4cPAk4RI/AAAAAAAAUcA/f_kArU_pBlI/s1600/adopt-a-guinea-pig-month.png">
+    <img src="http://www.petravelr.com/wp-content/uploads/2015/03/Wheek-GP-2.jpg">
+    <img src="http://www.pets4homes.co.uk/images/classifieds/2013/09/05/413292/large/stunning-baby-guinea-pigs-for-sale-5228f1ca26551.jpg">
+</div>
+<h1 style="text-align: middle; color: crimson";
+  padding: 10px 20px;">Adopt a Guinea pig, it can use a family:).</h1>
+</body>

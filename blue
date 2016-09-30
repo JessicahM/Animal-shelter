@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Animal shelter</title>
+</head>
+<body style="background-image: url(https://ae01.alicdn.com/kf/HTB1cfIHKVXXXXc0XpXXq6xXFXXXR/-font-b-macaw-b-font-font-b-parrot-b-font-bird-tropical-psychedelic-artwork-art.jpg)">
+<div class="container" style="width: 80%;
+  background-color: pink;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+  border-style: dashed;
+  float: left; text-transform:uppercase; text-indent:5px; img align:middle;">
+    <img src="http://everythingbirdsonline.com/wp-content/uploads/2014/10/macaw-scarlet.jpg">
+    <img src="http://wildography.co.uk/wp-content/uploads/2012/12/Green_Wing_Macaws_bymegmarcinkus.jpg">
+    <img src="http://animals.sandiegozoo.org/sites/default/files/juicebox_slides/macaw_scarlet_flying_01.jpg">
+    <img src="https://media1.britannica.com/eb-media/85/96285-004-FA85059C.jpg">
+</div>
+<h1 style="text-align: middle; color: white";
+  padding: 10px 20px;">Adopt a macaw today, a very rare amazonian bird.</h1>
+</body>
