@@ -26,12 +26,19 @@ h4 {
 
 }
 
-img {
-  border-radius: 80px;
-  width: 250spx;
-  height: auto;
+.container img {
+  border-radius: 50px;
+  width: 250px;
+   background: #73AD21;
+   padding: 20px;
+   width: 200px;
+   height: 150px;
+}
+.container:hover {
+  color: blue;
+
 }
 
 body {
-  background-image: url(https://overheadproductions.files.wordpress.com/2013/06/sequence-01-still0064.jpg);
+  background-image: url(http://thumb7.shutterstock.com/display_pic_with_logo/947257/271137329/stock-vector-vector-brick-wall-texture-background-grunge-distress-sketch-stamp-overlay-effect-texture-271137329.jpg);
 }
